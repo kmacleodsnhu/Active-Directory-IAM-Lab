@@ -107,7 +107,7 @@ Example: Sarah Johnson was assigned to multiple groups based on business respons
 
 ### Group Membership Management
 
-![Group Membership](group-membership(AD).png)
+![Group Membership](images/group-membership(AD).png)
 
 ## User Offboarding
 
